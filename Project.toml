@@ -1,6 +1,6 @@
 name = "Bloqade"
 uuid = "bd27d05e-4ce1-5e79-84dd-c5d7d508bbe1"
-version = "0.1.24"
+version = "0.1.24.0"
 
 [deps]
 BloqadeExpr = "bd27d05e-4ce1-5e79-84dd-c5d7d508abe2"
@@ -19,12 +19,12 @@ Yao = "5872b779-8223-5990-8dd0-5abbb0748c8c"
 YaoSubspaceArrayReg = "bd27d05e-4ce1-5e79-84dd-c5d7d508ade2"
 
 [compat]
-BloqadeExpr = "0.1"
-BloqadeKrylov = "0.1"
-BloqadeLattices = "0.1"
-BloqadeMIS = "0.1"
-BloqadeODE = "0.1"
-BloqadeWaveforms = "0.1"
+BloqadeExpr = "0.1.14"
+BloqadeKrylov = "0.1.8"
+BloqadeLattices = "0.1.8"
+BloqadeMIS = "0.1.7"
+BloqadeODE = "0.1.11"
+BloqadeWaveforms = "0.1.7"
 ColorSchemes = "3"
 Colors = "0.12"
 ForwardDiff = "0.10"
